@@ -26,7 +26,7 @@ public class Main {
         String rozwal = "ROZWAL";
        String xored;
         int key=0;
-        for (int k = 0; k < 256; k++) {
+            for (int k = 0; k < 256; k++) {
 
             xored = "";
             for (int j = 0; j < rozwal.length(); j++) {
